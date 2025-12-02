@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "すずめ",
+  "base_artist": "RADWIMPS",
+  "createdAt": "2025-12-02T08:10:00.538357Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "すずめ",
+      "artist": "RADWIMPS feat. 十明",
+      "has_synced": true,
+      "path": "select/01_すずめ_RADWIMPS_feat._十明.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "すずめ (feat.十明)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/02_すずめ_(feat.十明)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "すずめ (feat. 十明)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/03_すずめ_(feat._十明)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "すずめ",
+      "artist": "Yoko Hatanaka",
+      "has_synced": false,
+      "path": "select/04_すずめ_Yoko_Hatanaka.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "すずめ",
+      "artist": "Hatanaka, Yōko",
+      "has_synced": false,
+      "path": "select/05_すずめ_Hatanaka,_Yōko.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "すずめ",
+      "artist": "RADWIMPS feat. Toaka",
+      "has_synced": true,
+      "path": "select/06_すずめ_RADWIMPS_feat._Toaka.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Suzume (すずめ; featuring Toaka)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/07_Suzume_(すずめ;_featuring_Toaka)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "すずめ",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/08_すずめ_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "すずめ",
+      "artist": "Akuya",
+      "has_synced": false,
+      "path": "select/09_すずめ_Akuya.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "すずめ",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/10_すずめ_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "すずめ - Suzume (feat. Toaka)",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/11_すずめ_-_Suzume_(feat._Toaka)_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Suzume すずめ Tamil",
+      "artist": "Kaapi Cats",
+      "has_synced": true,
+      "path": "select/12_Suzume_すずめ_Tamil_Kaapi_Cats.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "すずめ",
+      "artist": "RADWIMPS, 十明",
+      "has_synced": true,
+      "path": "select/13_すずめ_RADWIMPS,_十明.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "すずめ - Suzume (feat. Toaka)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/14_すずめ_-_Suzume_(feat._Toaka)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "すずめ feat. 十明",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/15_すずめ_feat._十明_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "すずめ",
+      "artist": "RADWIMPS, 十明",
+      "has_synced": false,
+      "path": "select/pl_01_すずめ_RADWIMPS,_十明.txt"
+    }
+  ]
+}
